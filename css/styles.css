@@ -288,7 +288,7 @@ img {
 
 /* Секция Чем занимаемся */
 
-.work {
+.activities__title {
 	font-weight: 700;
 	font-size: 36px;
 	line-height: 1.17;
@@ -297,20 +297,20 @@ img {
 	margin-bottom: 50px;
 }
 
-.work-list {
+.activities__list {
 	display: flex;
 	flex-wrap: wrap;
 }
 
-.work-item {
+.activities__item {
 	position: relative;
 }
 
-.work-item:not(:nth-child(3n)) {
+.activities__item:not(:nth-child(3n)) {
 	margin-right: 30px;
 }
 
-.work-area {
+.activities__area {
 	position: absolute;
 	bottom: 0;
 	left: 0;
