@@ -68,10 +68,9 @@ img {
 
 /* Логотип в header */
 
-.header-logo {
+.logo {
 	padding-top: 24px;
 	padding-bottom: 25px;
-	margin-right: 93px;
 
 	font-family: "Raleway";
 	font-size: 26px;
@@ -81,26 +80,34 @@ img {
 	text-decoration: none;
 }
 
-.header-logo-1 {
+.logo--dark {
 	color: #000000;
+}
+
+.header__logo {
+	margin-right: 93px;
 }
 
 /* Навигация */
 
-.nav-container {
+.header--bottomline {
+	border-bottom: 1px solid #cecece;
+}
+
+.header__container {
 	display: flex;
 	align-items: center;
 }
 
-.site-nav {
+.site-nav__list {
 	display: flex;
 }
 
-.site-nav .nav-item:not(:last-child) {
+.site-nav__list .site-nav__item:not(:last-child) {
 	margin-right: 50px;
 }
 
-.nav-link {
+.site-nav__link {
 	position: relative;
 
 	padding-top: 32px;
@@ -116,16 +123,16 @@ img {
 	transition: color var(--main-transition);
 }
 
-.nav-link:hover,
-.nav-link:focus {
+.site-nav__link:hover,
+.site-nav__link:focus {
 	color: var(--accent-color);
 }
 
-.site-nav .nav-link.current {
+.site-nav__list .site-nav__link.site-nav__link--current {
 	color: var(--accent-color);
 }
 
-.nav-link.current::after {
+.site-nav__link.site-nav__link--current::after {
 	content: "";
 	position: absolute;
 	bottom: 0;
@@ -177,10 +184,6 @@ img {
 
 .nav-contact:not(:first-child) {
 	margin-left: 50px;
-}
-
-.bottom-line {
-	border-bottom: 1px solid #cecece;
 }
 
 /* Секция Hero */
