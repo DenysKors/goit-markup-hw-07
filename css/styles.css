@@ -239,24 +239,24 @@ img {
 
 /* Секция Features */
 
-.section-features {
+.features {
 	padding-bottom: 0;
 }
 
-.features-list {
+.features__list {
 	display: flex;
 	flex-wrap: wrap;
 }
 
-.features-item {
+.features__item {
 	width: 270px;
 }
 
-.features-item:not(:nth-child(4n)) {
+.features__item:not(:nth-child(4n)) {
 	margin-right: 30px;
 }
 
-.features-icon {
+.features__icon {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -268,7 +268,7 @@ img {
 	margin-bottom: 30px;
 }
 
-.features-title {
+.features__title {
 	padding-bottom: 10px;
 
 	font-weight: 700;
@@ -278,7 +278,7 @@ img {
 	text-transform: uppercase;
 }
 
-.features-text {
+.features__text {
 	font-size: 14px;
 	line-height: 1.71;
 	letter-spacing: 0.03em;
