@@ -205,7 +205,7 @@ img {
 	background-repeat: no-repeat;
 }
 
-.hero-title {
+.hero__title {
 	margin-bottom: 30px;
 
 	font-weight: 900;
@@ -216,7 +216,7 @@ img {
 	color: #ffffff;
 }
 
-.hero-button {
+.hero__button {
 	padding: 10px 32px;
 
 	font-family: inherit;
@@ -830,7 +830,7 @@ img {
 	transform: translate(-50%, -50%);
 }
 
-.modal-close {
+.modal__close {
 	position: absolute;
 
 	top: 0;
@@ -857,8 +857,8 @@ img {
 	transition: fill var(--main-transition);
 }
 
-.modal-close:hover,
-.modal-close:focus {
+.modal__close:hover,
+.modal__close:focus {
 	fill: var(--accent-color);
 }
 
