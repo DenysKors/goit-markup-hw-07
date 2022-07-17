@@ -68,7 +68,7 @@ img {
 
 /* Логотип в header */
 
-.logo {
+/* .logo {
 	font-family: "Raleway";
 	font-weight: 700;
 	font-size: 26px;
@@ -76,7 +76,7 @@ img {
 	letter-spacing: 0.03em;
 	color: var(--accent-color);
 	text-decoration: none;
-}
+} */
 
 .logo--dark {
 	color: #000000;
@@ -189,7 +189,7 @@ img {
 
 /* Секция Hero */
 
-.hero {
+/* .hero {
 	padding-top: 200px;
 	padding-bottom: 200px;
 	margin-left: auto;
@@ -214,7 +214,7 @@ img {
 	letter-spacing: 0.06em;
 	text-transform: uppercase;
 	color: #ffffff;
-}
+} */
 
 /* .hero__button {
 	padding: 10px 32px;
@@ -243,7 +243,7 @@ img {
 
 /* Секция Features */
 
-.features {
+/* .features {
 	padding-bottom: 0;
 }
 
@@ -288,11 +288,11 @@ img {
 	letter-spacing: 0.03em;
 
 	color: var(--text-color);
-}
+} */
 
 /* Секция Чем занимаемся */
 
-.activities__title {
+/* .activities__title {
 	font-weight: 700;
 	font-size: 36px;
 	line-height: 1.17;
@@ -332,11 +332,11 @@ img {
 	color: #ffffff;
 
 	background-color: rgba(47, 48, 58, 0.8);
-}
+} */
 
 /* Секция Команда */
 
-.team {
+/* .team {
 	background-color: #f5f4fa;
 }
 
@@ -388,9 +388,9 @@ img {
 	text-align: center;
 	letter-spacing: 0.03em;
 	color: var(--text-color);
-}
+} */
 
-.socialnet {
+/* .socialnet {
 	display: flex;
 	justify-content: center;
 }
@@ -432,7 +432,7 @@ img {
 .socialnet__link:hover .socialnet__icon,
 .socialnet__link:focus .socialnet__icon {
 	fill: #ffffff;
-}
+} */
 
 /* Секция Постоянные клиенты */
 
