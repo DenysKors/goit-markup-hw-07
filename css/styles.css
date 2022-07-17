@@ -78,7 +78,7 @@ img {
 	text-decoration: none;
 } */
 
-.logo--dark {
+/* .logo--dark {
 	color: #000000;
 }
 
@@ -87,18 +87,18 @@ img {
 	padding-bottom: 25px;
 
 	margin-right: 93px;
-}
+} */
 
 /* Навигация */
 
-.header--bottomline {
+/* .header--bottomline {
 	border-bottom: 1px solid #cecece;
 }
 
 .header__container {
 	display: flex;
 	align-items: center;
-}
+} */
 
 .site-nav__list {
 	display: flex;
@@ -436,7 +436,7 @@ img {
 
 /* Секция Постоянные клиенты */
 
-.clients__title {
+/* .clients__title {
 	margin-bottom: 50px;
 
 	font-weight: 700;
@@ -485,11 +485,11 @@ img {
 .clients__link:hover .clients__icon,
 .clients__link:focus .clients__icon {
 	fill: var(--accent-color);
-}
+} */
 
 /* Подвал */
 
-.footer {
+/* .footer {
 	padding-top: 60px;
 	padding-bottom: 60px;
 
@@ -509,7 +509,7 @@ img {
 
 .logo--light {
 	color: #ffffff;
-}
+} */
 
 .address__title {
 	font-style: normal;
@@ -662,7 +662,7 @@ img {
 /* СТРАНИЦА ПОРТФОЛИО */
 
 /* Кнопки селектора */
-.filter-list {
+/* .filter-list {
 	display: flex;
 	justify-content: center;
 	margin-bottom: 50px;
@@ -670,7 +670,7 @@ img {
 
 .filter-list__item:not(:last-child) {
 	margin-right: 8px;
-}
+} */
 
 /* .filter-list__button {
 	padding: 6px 22px;
@@ -700,7 +700,7 @@ img {
 
 /* Галерея Portfolio */
 
-.portfolio-list {
+/* .portfolio-list {
 	display: flex;
 	flex-wrap: wrap;
 }
@@ -752,11 +752,11 @@ img {
 
 	border: 1px solid #eeeeee;
 	border-top: none;
-}
+} */
 
 /* Overlay */
 
-.thumb {
+/* .thumb {
 	position: relative;
 
 	overflow: hidden;
@@ -789,7 +789,7 @@ img {
 
 .portfolio-list__link:hover .overlay {
 	transform: translateY(-100%);
-}
+} */
 
 /* Модальное окно */
 
