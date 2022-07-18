@@ -100,7 +100,7 @@ img {
 	align-items: center;
 } */
 
-.site-nav__list {
+/* .site-nav__list {
 	display: flex;
 }
 
@@ -144,11 +144,11 @@ img {
 
 	border-radius: 2px;
 	background-color: var(--accent-color);
-}
+} */
 
 /* Header contacts */
 
-.contacts {
+/* .contacts {
 	display: flex;
 	align-items: center;
 	margin-left: auto;
@@ -185,7 +185,7 @@ img {
 
 .contacts__link:not(:first-child) {
 	margin-left: 50px;
-}
+} */
 
 /* Секция Hero */
 
@@ -511,7 +511,7 @@ img {
 	color: #ffffff;
 } */
 
-.address__title {
+/* .address__title {
 	font-style: normal;
 	font-weight: 400;
 	font-size: 14px;
@@ -539,11 +539,11 @@ img {
 .address__contact:hover,
 .address__contact:focus {
 	color: var(--accent-color);
-}
+} */
 
 /* Подвал - соцсети */
 
-.media {
+/* .media {
 	padding-top: 12px;
 }
 
@@ -589,11 +589,11 @@ img {
 .media__link:hover,
 .media__link:focus {
 	background-color: var(--accent-color);
-}
+} */
 
 /* Подвал - форма подпииски */
 
-.mailing {
+/* .mailing {
 	padding-top: 12px;
 }
 
@@ -631,7 +631,7 @@ img {
 
 .footer-form__input::placeholder {
 	color: rgba(255, 255, 255, 0.6);
-}
+} */
 
 /* .footer-form__btn {
 	padding: 10px 28px;
@@ -655,9 +655,9 @@ img {
 	cursor: pointer;
 } */
 
-.footer-form__icon {
+/* .footer-form__icon {
 	margin-left: 10px;
-}
+} */
 
 /* СТРАНИЦА ПОРТФОЛИО */
 
@@ -793,7 +793,7 @@ img {
 
 /* Модальное окно */
 
-.backdrop {
+/* .backdrop {
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -813,9 +813,9 @@ img {
 	opacity: 0;
 	visibility: hidden;
 	pointer-events: none;
-}
+} */
 
-.modal {
+/* .modal {
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -830,7 +830,7 @@ img {
 	box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
 
 	transform: translate(-50%, -50%);
-}
+} */
 
 /* .modal__close-button {
 	position: absolute;
@@ -864,7 +864,7 @@ img {
 	fill: var(--accent-color);
 } */
 
-.modal__description {
+/* .modal__description {
 	padding-bottom: 12px;
 
 	font-weight: 700;
@@ -998,7 +998,7 @@ img {
 
 .form-checkbox__contract {
 	color: var(--accent-color);
-}
+} */
 
 /* .modal-button {
 	padding: 10px 56px;

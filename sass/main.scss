@@ -14,9 +14,12 @@
 @import "./components/overlay";
 @import "./components/buttons";
 @import "./components/filter-list";
+@import "./components/backdrop";
 
 // Layouts
 @import "./layouts/header";
+@import "./layouts/site-nav";
+@import "./layouts/contacts";
 @import "./layouts/hero";
 @import "./layouts/features";
 @import "./layouts/activities";
@@ -25,3 +28,6 @@
 @import './layouts/portfolio-list';
 @import "./layouts/footer";
 @import "./layouts/footer-address";
+@import "./layouts/media";
+@import "./layouts/footer-form";
+@import "./layouts/modal";
